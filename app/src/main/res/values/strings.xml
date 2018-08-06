@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="str_quanly">Quản lý công việc hàng tuần</string>
+    <string name="str_cong_viec">Công việc:</string>
+    <string name="str_noi_dung">Nội dung:</string>
+    <string name="str_ngay_ht">Ngày HT:</string>
+    <string name="str_date">Date</string>
+    <string name="str_gio_ht">Giờ HT:</string>
+    <string name="str_time">Time</string>
+    <string name="str_them_cv">them cv</string>
+</resources>
